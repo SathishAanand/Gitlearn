@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 ext 1 is created
 i am adding an extra lines
 i am taking thrirdbranch and triying to do git merge
+
+text 1 is created
+i am adding an extra line.
+i am adding lines in remote git repo to create merge conflict.
+i am trying to create a merge conflict by adding things in local
+i am adding lines in remote git repo to create merge conflict.
+
